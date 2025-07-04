@@ -80,4 +80,4 @@ A complete digital platform built to support the welfare, healthcare, education,
 
 1. **Clone or extract the project:**
    ```bash
-   git clone https://github.com/your-repo/veer-sahayata.git
+   git clone https://github.com/parths01/veer-sahayata.git
